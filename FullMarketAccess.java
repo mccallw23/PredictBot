@@ -11,7 +11,8 @@ import java.util.Scanner;
 
 /**
  * @author Will McCall, Dartmouth College, Fall, 2021
- * Principals adapted from @author Tim Pierson's Dartmouth CS 10 "WWWget.Java" class.  Thanks Tim :)
+ * Principals adapted from:
+ * @inspiration Tim Pierson's Dartmouth CS 10 "WWWget.Java" class.  Thanks Tim :)
  */
 public class FullMarketAccess {
 
