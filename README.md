@@ -13,7 +13,7 @@ PredictBot is a personal project that Identifies arbitrage opportunities in the 
 
 The program uses a MaxPriorityQueue to output valid markets it finds in the following format in order of Most to Least profitable:
 
-[MarketNumber] <MarketName> <MarketURL> <WorstCaseProfit>  
+<MarketNumber> <MarketName> <MarketURL> <WorstCaseProfit>  
 
 # Market
 `Market` is a Java class designed to internally represent Predictit Markets on the machine for ease of calculations.  It is composed of  `Contract` objects.  It contains useful instance variables such as `this.sumBuyNo` which can quickly be compared to expected numbers to determine if arbitrage is possible.
