@@ -10,12 +10,8 @@ import java.util.Scanner;
 
 
 /**
- * Illustration of explicit catching of all errors in getting a URL
- * (compare WWWGet.java, which just passes the buck)
- *
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2012
- * @author Tim Pierson, Dartmouth CS 10, Winter 2018, changed URL location
- * @author Tim Pierson, Dartmouth CS 10, Winter 2020 -- update to point to html file
+ * @author Will McCall, Dartmouth College, Fall, 2021
+ * Principals adapted from @author Tim Pierson's Dartmouth CS 10 "WWWget.Java" class.  Thanks Tim :)
  */
 public class FullMarketAccess {
 
