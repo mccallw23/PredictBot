@@ -9,7 +9,7 @@ PredictBot is a personal project that Identifies arbitrage opportunities in the 
 
 
 # FullMarketAccess
-`FullMarketAccess` is a Java class which parses the PredictIt Market API for price information, loading it into internal `Market` objects which are composed of `Contract` objects.  It then runs a series of simple tests to determine if a Market can be arbitraged. For more on how it works, see `Types of Arbitrage on Predictit:`
+`FullMarketAccess` is a Java class which parses the PredictIt Market API for price information, loading it into internal `Market` objects which are composed of `Contract` objects.  It then runs a series of simple tests to determine if a Market can be arbitraged. For more on how it works, see Section titled `Types of Arbitrage on Predictit`
 
 The program uses a MaxPriorityQueue to output valid markets it finds in the following format in order of Most to Least profitable:
 
