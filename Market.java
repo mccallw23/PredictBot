@@ -207,9 +207,9 @@ public class Market {
 
     public static void main(String[] args) {
 
-        Market test = new Market("pp");
-        test.addContract(new Contract("pp"));
-        test.addContract(new Contract("pp"));
+        Market test = new Market("p");
+        test.addContract(new Contract("p"));
+        test.addContract(new Contract("p"));
         System.out.println(test.sumBuyNo());
     }
 }
