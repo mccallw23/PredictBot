@@ -62,6 +62,7 @@ public class Market {
         relevantYes = 1.0 - sumYes;
         relevantYesRelaxed = 1.0 - sumYesRelaxed;
 
+        
     }
 
 
