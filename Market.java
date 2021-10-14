@@ -54,7 +54,7 @@ public class Market {
     }
 
 
-    public void fixThisSoItWorks()
+    public void initAttributes()
     {
         sumYes = sumBuyYes();
         sumNo = sumBuyNo();
