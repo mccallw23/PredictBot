@@ -8,7 +8,6 @@ import java.util.Scanner;
 //import java.util.ArrayList;
 //import java.util.PriorityQueue;
 
-
 /**
  * @author Will McCall, Dartmouth College, Fall, 2021
  * Principals adapted from:
