@@ -1,3 +1,4 @@
+
 public class Contract {
 
     private double bestbuyyescost;
